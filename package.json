@@ -21,5 +21,14 @@
   "bin": {
     "icon-css-to-json": "index.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mjhlybmwq/IconCSSToJSON.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mjhlybmwq/IconCSSToJSON/issues"
+  },
+  "homepage": "https://github.com/mjhlybmwq/IconCSSToJSON#readme"
 }

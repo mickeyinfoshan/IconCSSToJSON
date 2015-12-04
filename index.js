@@ -70,6 +70,10 @@ for(var i = 0; i < rules.length; i++) {
 
   var value = declaration.value;
 
+  value = value.replace(/\"/g, "");
+
+  value = value.replace(/\\/g, "&#x");
+
   result[key] = value;
 }
 
